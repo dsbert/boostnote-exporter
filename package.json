@@ -1,0 +1,11 @@
+{
+  "name": "boostnote-exporter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "cson": "^4.1.0",
+    "ramda": "^0.24.1",
+    "sanitize-filename": "^1.6.1"
+  }
+}
