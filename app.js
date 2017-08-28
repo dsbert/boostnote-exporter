@@ -12,11 +12,9 @@ const mkdirSync = function(dirPath) {
   }
 };
 
-const notesDir =
-  'C:\\Users\\bertolds\\Documents\\Projects\\_dropbox\\Dropbox\\notes\\Boostnote';
+const notesDir = '~/Boostnote';
 
-const outDir =
-  'C:\\Users\\bertolds\\Documents\\Projects\\_dropbox\\Dropbox\\notes\\Boostnote\\notes\\out';
+const outDir = '~/Boostnote/notes/out';
 
 mkdirSync(outDir);
 
